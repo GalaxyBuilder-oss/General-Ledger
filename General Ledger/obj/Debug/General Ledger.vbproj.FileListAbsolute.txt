@@ -1,0 +1,78 @@
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\bin\Debug\General Ledger.exe.config
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\bin\Debug\General Ledger.exe
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\bin\Debug\General Ledger.pdb
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\bin\Debug\General Ledger.xml
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General Ledger.vbprojAssemblyReference.cache
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General_Ledger.Form1.resources
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General_Ledger.Resources.resources
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.GenerateResource.cache
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.CoreCompileInputs.cache
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General Ledger.exe
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General Ledger.xml
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General Ledger.pdb
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\bin\Debug\general_ledger.mdf
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\bin\Debug\general_ledger_log.ldf
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General_Ledger.Splashscreen.resources
+C:\Users\PUB 1220\source\repos\General Ledger\General Ledger\obj\Debug\General_Ledger.viewData.resources
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.exe
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.xml
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.pdb
+F:\Backup\General Ledger\General Ledger\bin\Debug\general_ledger.mdf
+F:\Backup\General Ledger\General Ledger\bin\Debug\general_ledger_log.ldf
+F:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe.config
+F:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe
+F:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.pdb
+F:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.xml
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.AssemblyReference.cache
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.SuggestedBindingRedirects.cache
+F:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Form1.resources
+F:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Resources.resources
+F:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Splashscreen.resources
+F:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.viewData.resources
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.GenerateResource.cache
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.CoreCompileInputs.cache
+F:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe.manifest
+F:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.application
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.exe.manifest
+F:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.application
+D:\Backup\General Ledger\General Ledger\bin\Debug\general_ledger.mdf
+D:\Backup\General Ledger\General Ledger\bin\Debug\general_ledger_log.ldf
+D:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe.config
+D:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe.manifest
+D:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.application
+D:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe
+D:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.pdb
+D:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.xml
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbprojAssemblyReference.cache
+D:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Form1.resources
+D:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Resources.resources
+D:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Splashscreen.resources
+D:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.viewData.resources
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.GenerateResource.cache
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.CoreCompileInputs.cache
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.exe.manifest
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.application
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.exe
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.xml
+D:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.pdb
+E:\Backup\General Ledger\General Ledger\bin\Debug\general_ledger.mdf
+E:\Backup\General Ledger\General Ledger\bin\Debug\general_ledger_log.ldf
+E:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe.config
+E:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe.manifest
+E:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.application
+E:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.exe
+E:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.pdb
+E:\Backup\General Ledger\General Ledger\bin\Debug\General Ledger.xml
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.AssemblyReference.cache
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.SuggestedBindingRedirects.cache
+E:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Form1.resources
+E:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Resources.resources
+E:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.Splashscreen.resources
+E:\Backup\General Ledger\General Ledger\obj\Debug\General_Ledger.viewData.resources
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.GenerateResource.cache
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.vbproj.CoreCompileInputs.cache
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.exe.manifest
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.application
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.exe
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.xml
+E:\Backup\General Ledger\General Ledger\obj\Debug\General Ledger.pdb

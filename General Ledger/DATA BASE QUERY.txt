@@ -1,0 +1,47 @@
+CREATE TABLE [dbo].[GeneralEntries] (
+    [Id]         INT           NOT NULL IDENTITY,
+    [trx_date]   DATE          NULL,
+    [invoice]    CHAR (5)      NULL,
+    [account]    VARCHAR (100) NULL,
+    [no_account] INT           NULL,
+    [debt]       INT           NULL,
+    [credit]     INT           NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[BudgettingCosting] (
+    [Id]                INT           NOT NULL IDENTITY,
+    [account]           VARCHAR (100) NULL,
+    [quantity]          INT           NULL,
+    [price]             INT           NULL,
+    [id_generalentries] INT           NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [id_jurnal] FOREIGN KEY ([id_generalentries]) REFERENCES [dbo].[GeneralEntries] ([Id])
+);
+
+CREATE TABLE [dbo].[IncomeStatement] (
+    [Id]                INT           NOT NULL IDENTITY,
+    [account]           VARCHAR (100) NULL,
+    [expense]           INT           NULL,
+    [income]            INT           NULL,
+    [id_generalentries] INT           NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [id_jurnal_labarugi] FOREIGN KEY ([id_generalentries]) REFERENCES [dbo].[GeneralEntries] ([Id])
+);
+
+CREATE TABLE [dbo].[BalanceSheet] (
+    [Id]                  INT           IDENTITY (1, 1) NOT NULL,
+    [asset_account]       VARCHAR (100) NULL,
+    [asset]               INT           NULL,
+    [liabilities_account] VARCHAR (100) NULL,
+    [libilities]          INT           NULL,
+    [capital]             INT           NULL,
+    [id_budgetting]       INT           NULL,
+    [id_labarugi]         INT           NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [id_budget] FOREIGN KEY ([id_budgetting]) REFERENCES [dbo].[BudgettingCosting] ([Id]),
+    CONSTRAINT [id_laba] FOREIGN KEY ([id_labarugi]) REFERENCES [dbo].[IncomeStatement] ([Id])
+);
+
+
+
