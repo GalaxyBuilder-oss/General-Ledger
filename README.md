@@ -1,5 +1,8 @@
 <h1>Project📝</h1>
+Make A General Ledger Project Using VB.Net And OBDC Database
 <h1>Uses⚙️</h1>
+- OBDC Database<br>
+- Visual Studio 2012
 <h1>Additonal</h1>
 <h1>About Me😎</h1>
 <marquee>GalaxyBuilder</marquee>
