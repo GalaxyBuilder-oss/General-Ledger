@@ -1,11 +1,11 @@
-<h1>Project📝</h1>
+# Project📝
 Make A General Ledger Project Using VB.Net And OBDC Database
-<h1>Uses⚙️</h1>
+<# Uses⚙️
 - OBDC Database<br>
 - Visual Studio 2012
-<h1>Additonal</h1>
-<h1>About Me😎</h1>
-<marquee>GalaxyBuilder</marquee>
+# Additonal
+#About Me😎
+GalaxyBuilder
 - Hi, I’m GalaxyBuilder! Nice To Meet You👋
 - 👀 I’m interested in Coding And Designing
 - 🌱 I’m currently learning A C Language
