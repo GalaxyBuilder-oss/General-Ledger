@@ -1,7 +1,7 @@
 # Project📝
 Make A General Ledger Project Using VB.Net And OBDC Database
-<# Uses⚙️
-- OBDC Database<br>
+# Uses⚙️
+- OBDC Database
 - Visual Studio 2012
 # Additonal
 #About Me😎
